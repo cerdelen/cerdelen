@@ -1,18 +1,31 @@
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cerdelen&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cerdelen&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cerdelen&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Welcome to My GitHub!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cerdelen&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+## About Me
 
+Hello! I'm a passionate developer with a diverse set of skills ranging from low-level engineering to full-stack development, and a strong foundation in modern software practices. Here's a quick overview of what I bring to the table:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cedric-erdelen-91356723b/) 
+### Skills
 
----
-[![](https://visitcount.itsvg.in/api?id=cerdelen&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Low-Level Engineering**
+  - Extensive experience with **C/C++**
+  - Currently learning **Rust** to expand my systems programming expertise
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Full-Stack Development**
+  - Proficient in **TypeScript/JavaScript**
+  - Experienced in **front-end** and **back-end** development
+  - Skilled in working with **databases**
+
+- **Modern Software Practices**
+  - **CI/CD**: Proficient in implementing Continuous Integration and Continuous Deployment pipelines to streamline development workflows
+  - **Virtualization & Containerization**: Experienced with tools like **Docker** for creating, deploying, and managing containerized applications
+
+### Projects and Contributions
+
+Feel free to explore my repositories to see some of the projects I've worked on. I'm always eager to contribute to exciting projects and collaborate with other developers.
+
+### Get in Touch
+
+- **Email**: [cedric.erdelen@gmail.com](mailto:cedric.erdelen@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/cedric-erdelen/)
+
+Looking forward to connecting with you!
